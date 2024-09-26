@@ -1,8 +1,8 @@
 ## Identitas
 
-Nama: 
+Nama: Negar Fahmi Faishal Aahmad
 
-NIM : 
+NIM : 607062400111
 
 ## Instruksi
 
